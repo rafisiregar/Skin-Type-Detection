@@ -1,0 +1,3 @@
+1. seluruh folder dataset = https://drive.google.com/drive/folders/1LA71mE7NW_6sYEZOe7GHvh6yIXag78V2?usp=sharing
+2. model = https://drive.google.com/drive/folders/1MYlDqp6E1YL7Oq_E58m2PrPl6DAo5afy?usp=sharing
+3. deployment = https://huggingface.co/spaces/egar1444/DeteksiJenisKulitWajah
